@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        //"module": "commonjs",     // reference error on module exports
+        "target": "ES6",
+        "sourceMap": true,
+        "outDir": "../JS_Output/",
+        //"noImplicitAny": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
